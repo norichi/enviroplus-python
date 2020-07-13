@@ -303,8 +303,8 @@ WIDTH = disp.width
 HEIGHT = disp.height
 
 # The city and timezone that you want to display.
-city_name = "Sheffield"
-time_zone = "Europe/London"
+city_name = "Tokyo"            #初期 city_name = "Sheffield"
+time_zone = "Asia/Tokyo"       #初期 time_zone = "Europe/London"
 
 # Values that alter the look of the background
 blur = 50
